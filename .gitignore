@@ -1,0 +1,10 @@
+/vendor
+/.idea
+/image/catalog
+/upload
+config.php
+app_private_key.pem
+app_public_key.pem
+nginx.conf
+php.ini
+install.txt
