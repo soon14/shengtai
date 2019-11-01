@@ -2,6 +2,7 @@
 /.idea
 /image/catalog
 /upload
+/system/storage
 config.php
 app_private_key.pem
 app_public_key.pem
