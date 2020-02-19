@@ -1,0 +1,3 @@
+<Files "*.tpl">
+    Require all denied
+</Files>
